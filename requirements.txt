@@ -1,0 +1,13 @@
+PySide6-Essentials==6.12.0
+PySide6-Addons==6.12.0
+numpy==2.5.4
+psutil==7.2.2
+PyAudioWPatch==0.2.12.9
+winrt-runtime==3.2.1
+winrt-Windows.Media.Control==3.2.1
+winrt-Windows.Media==3.2.1
+winrt-Windows.Foundation==3.2.1
+winrt-Windows.Foundation.Collections==3.2.1
+winrt-Windows.Storage.Streams==3.2.1
+Pillow==13.0.0
+materialyoucolor==3.0.4
